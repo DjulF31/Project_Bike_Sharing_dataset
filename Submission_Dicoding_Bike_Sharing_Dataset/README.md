@@ -1,6 +1,4 @@
 # Dicoding_Submission_Bike_Sharing_Dataset
-=========================================
-
 ## Menjalankan Dashboard
 ---------------------
 conda create --name main-ds python=3.11<br>
