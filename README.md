@@ -4,12 +4,6 @@
 ---------------------
 conda create --name main-ds python=3.9
 conda activate main-ds
-pip install 	numpy 
-		pandas 
-		sklearn.cluster
-		matplotlib 
-		seaborn 
-		jupyter 
-		streamlit 
+pip install numpy, pandas, sklearn.cluster, matplotlib, seaborn, jupyter notebook, streamlit 
 
 streamlit run dashboard_bike.py
