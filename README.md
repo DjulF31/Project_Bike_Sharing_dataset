@@ -2,7 +2,7 @@
 
 #### Menjalankan Dashboard
 ---------------------
-conda create --name main-ds python=3.9
+conda create --name main-ds python=3.9<br>
 conda activate main-ds
 pip install numpy, pandas, sklearn.cluster, matplotlib, seaborn, jupyter notebook, streamlit 
 
